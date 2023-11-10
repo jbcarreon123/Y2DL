@@ -19,7 +19,7 @@
       <PackageReference Include="Google.Apis.YouTube.v3" Version="1.61.0.3155" />
       <PackageReference Include="SmartFormat" Version="3.2.2" />
       <PackageReference Include="System.Data.SQLite" Version="1.0.118" />
-      <PackageReference Include="YamlDotNet" Version="13.3.1" />
+      <PackageReference Include="YamlDotNet" Version="13.7.1" />
     </ItemGroup>
 
     <ItemGroup>
